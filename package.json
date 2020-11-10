@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-config",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS preset for Project Groceries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Groceries/tailwind-config.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "presets"
+  ],
+  "author": "Hemedi Saidi (https://projectgroceries.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Project-Groceries/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/Project-Groceries/tailwind-config#readme"
+}
