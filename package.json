@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-config",
+  "name": "@project-groceries/tailwind-config",
   "version": "1.0.0",
   "description": "A Tailwind CSS preset for Project Groceries",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Project-Groceries/tailwind-config.git"
+    "url": "git+https://github.com/project-groceries/tailwind-config.git"
   },
   "keywords": [
     "tailwind",
@@ -18,7 +18,8 @@
   "author": "Hemedi Saidi (https://projectgroceries.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Project-Groceries/tailwind-config/issues"
+    "url": "https://github.com/project-groceries/tailwind-config/issues"
   },
-  "homepage": "https://github.com/Project-Groceries/tailwind-config#readme"
+  "homepage": "https://github.com/project-groceries/tailwind-config#readme",
+  "dependencies": {}
 }
