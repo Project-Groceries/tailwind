@@ -116,17 +116,6 @@ module.exports = {
       },
     },
   },
-  variants: {
-    scale: [
-      "responsive",
-      "hover",
-      "focus",
-      "active",
-      "disabled",
-      "group-hover",
-    ],
-    borderColor: ["responsive", "hover", "focus", "focus-within"],
-    textColor: ["responsive", "hover", "focus", "group-hover"],
-  },
+  variants: {},
   plugins: [],
 };
